@@ -63,6 +63,7 @@ ninja.translator = {
 		//en.js
 		//fr.js
 		//de.js
+		//dk.js
 		//nl.js
 		//pt.js
 		//ru.js
