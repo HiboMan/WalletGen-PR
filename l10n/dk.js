@@ -1,11 +1,11 @@
 "dk": {
-    "choosecurrency": "Vælg valuta",
+  "choosecurrency": "Vælg valuta",
     "singlewallet": "Single Wallet",
     "paperwallet": "Paper Wallet",
     "bulkwallet": "Bulk Wallet",
     "brainwallet": "Brain Wallet",
-    "donate": "Support",
     "detailwallet": "Pung detaljer",
+    "donate": "Support",
     "generatelabelbitcoinaddress": "Genererer ny adresse...",
     "generatelabelmovemouse": "FLYT din mus rundt for at tilføje noget ekstra tilfældighed...",
     "generatelabelkeypress": "ELLER skriv nogle tilfældige tegn i denne tekstboks",
